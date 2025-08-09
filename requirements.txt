@@ -6,3 +6,5 @@ joblib
 ipykernel
 matplotlib
 seaborn
+#This project requires datasets which are of larger size, you can download them from the below link
+https://drive.google.com/file/d/1ZXx5B2ZuymS8vJs7KnuXbAeUxwHyEyZd/view?usp=sharing
