@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+myenv/
+env/
+
+# PyCache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit temporary files
+.streamlit/
+
+# VSCode or other IDE settings
+.vscode/
+.idea/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+forecast_model.pkl
+
+# Dataset files
+*.csv
+household_energy.csv
+
+# Logs or local output
+*.log
+
+# Environment files
+.env
