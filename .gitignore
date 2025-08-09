@@ -36,3 +36,7 @@ household_energy.csv
 
 # Environment files
 .env
+
+# Ignore model and dataset files
+forecast_model.pkl
+household_energy.csv
